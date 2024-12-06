@@ -2,7 +2,7 @@
 
 This independent research project will focus on refining methods to calculate canopy cover values from smartphone photos and offering a path for replicable use on other projects. This has broad applications to forest canopy research, with the potential to help numerous projects studying threatened avian species response to forest canopy change, including Cassia crossbills, numerous woodpecker species, and American goshawks. 
 
-![IMG_1657](https://github.com/user-attachments/assets/989bec34-393f-4eb0-934b-be4febb8b14d)
+![copy](https://github.com/user-attachments/assets/5ac1ca70-09c3-4de1-ae67-8b0c5dbd8747)
 
 # Hemispherical image analysis for use in forest canopies
 
