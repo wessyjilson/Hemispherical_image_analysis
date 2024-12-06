@@ -11,6 +11,8 @@ This repository is designed to help anyone interested in using smartphone hemisp
  The code presented in this repository walks the user through the steps of converting an initial equirectangular image into a spherical fisheye image, from which canopy metrics can be calculated using the R package ‘hemispheR’ (Chianucci et al. 2019). This code is an adaptation of scripts written and published by Andis Arietta (github account link), with some added notes and adaptations I made for my own analysis. Between this repository and the wealth of resources made available by Arietta, my hope is that users can find an accessible way to use these techniques for their own research. 
 	To take pictures in the equirectangular 
 
+![Photo-20240625-170319](https://github.com/user-attachments/assets/c70d42ba-ec7c-4471-a084-a0ee39f17bf2)
+
 # In this repository:
 
 •	“image_analysis_manual_heading.R” – script where an image analysis is performed. You can follow along using some example photos provided
